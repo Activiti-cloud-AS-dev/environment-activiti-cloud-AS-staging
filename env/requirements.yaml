@@ -1,7 +1,7 @@
 dependencies:
 - name: activiti-cloud-platform
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
+  version: 0.0.3
 - name: activiti-rb-connector
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
